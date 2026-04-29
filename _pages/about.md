@@ -28,7 +28,7 @@ My research mainly focuses on Cross-modal Retrieval, Multi-view Learning, Multi-
 - *2026.03*: I will serve as a reviewer for NeurIPS 2026.
 - *2026.03*: I will serve as a reviewer for ACMMM 2026.
 - *2026.01*: I will serve as a reviewer for ECCV 2026. 
-- *2025.11*: &nbsp;🎉🎉 Two papers were accepted by **AAAI-2026**, and one was selected for an **AAAI-2026 Oral presentation**, see you in Singapore.
+- *2025.11*: &nbsp;🎉🎉 Two papers were accepted by **AAAI 2026**, and one was selected for an **Oral presentation**, see you in Singapore!
 - *2025.09*: &nbsp;🎉🎉 One paper was accepted by **NeurIPS 2025, Spotlight (accepatance rate=3.19%)**.
 
 
