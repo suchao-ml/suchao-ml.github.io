@@ -76,7 +76,7 @@ Serving as a reviewer for conferences and journals including
 
 **Chao Su**, Shuying Li, Ruitao Pu, Dezhong Peng, Zhenwen Ren, Yuan Sun
 
-Forty-third International Conference on Machine Learning (ICML 2026).
+Forty-third International Conference on Machine Learning (ICML 2026), **regular**.
 
 </div>
 </div>
