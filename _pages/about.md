@@ -42,6 +42,7 @@ Serving as a reviewer for conferences and journals including
 
 
 # 📝 Selected Publications 
+
 <!--
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -61,6 +62,24 @@ Serving as a reviewer for conferences and journals including
 </div>
 -->
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">
+        ICML 2026</div>
+      <img src='images/ICML2026_CCL_Framework.png' alt="sym" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+[Correspondence Cognitive Learning for Multi-Modal Object Re-Identification](https://openreview.net/pdf?id=9RI8vsWsqv)
+
+**Chao Su**, Shuying Li, Ruitao Pu, Dezhong Peng, Zhenwen Ren, Yuan Sun
+
+Forty-third International Conference on Machine Learning (ICML 2026).
+
+</div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -76,7 +95,7 @@ Serving as a reviewer for conferences and journals including
 
 **Chao Su**, Yanan Li, Xu Wang, Yingke Chen, Huiming Zheng, Dezhong Peng, Yuan Sun
 
-Fourty AAAI Conference on Artificial Intelligence (AAAI-26), **oral**.
+Fourty AAAI Conference on Artificial Intelligence (AAAI 2026), **oral**.
 
 </div>
 </div>
@@ -116,7 +135,7 @@ The Thirty-Ninth Annual Conference on Neural Information Processing Systems (Neu
 
 **Chao Su**, Huiming Zheng, Dezhong Peng, Xu Wang
 
-Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25), **poster**.
+Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025), **poster**.
 
 </div>
 </div>
