@@ -25,7 +25,8 @@ My research mainly focuses on Cross-modal Retrieval, Multi-view Learning, Multi-
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 One paper was accepted by **ICML 2026 (accepatance rate= 26.6%)**.
+- *2026.05*: &nbsp;🎉🎉 One paper was accepted by **IEEE Transactions on Image Processing**.
+- *2026.05*: &nbsp;🎉🎉 One paper was accepted by **ICML 2026**.
 - *2026.03*: I will serve as a reviewer for NeurIPS 2026.
 - *2026.03*: I will serve as a reviewer for ACMMM 2026.
 - *2026.01*: I will serve as a reviewer for ECCV 2026. 
