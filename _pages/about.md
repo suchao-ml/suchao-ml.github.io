@@ -40,7 +40,7 @@ My research mainly focuses on Cross-modal Retrieval, Multi-view Learning, Multi-
 
 Serving as a reviewer for conferences and journals including
 
-**NeurIPS, ICML, CVPR, ECCV, AAAI, ACM MM, IJCAI, TIP, TMM, TKDE, TIFS, TSON, PR and JBHI**.
+**NeurIPS, ICML, CVPR, ECCV, AAAI, ACM MM, IJCAI, TIP, TMM, TKDE, TIFS, TSON, PR, and JBHI**.
 
 
 # 📝 Selected Publications 
