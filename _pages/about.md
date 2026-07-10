@@ -25,6 +25,7 @@ My research mainly focuses on Cross-modal Retrieval, Multi-view Learning, Multi-
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 One paper was accepted by **ACMMM 2026**.
 - *2026.06*: I will serve as a reviewer for **AAAI 2027**.
 - *2026.05*: &nbsp;🎉🎉 One paper was accepted by **IEEE Transactions on Image Processing**.
 - *2026.05*: &nbsp;🎉🎉 One paper was accepted by **ICML 2026**.
