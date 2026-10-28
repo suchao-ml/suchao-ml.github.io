@@ -25,6 +25,7 @@ My research mainly focuses on Cross-modal Retrieval, Multi-view Learning, Multi-
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉🎉 入选**中国科协青年科技人才培育工程博士生专项计划**.
 - *2026.09*: &nbsp;🎉🎉 One paper was accepted by **NeurIPS 2026**.
 - *2026.09*: I will serve as a reviewer for **ICLR 2027**.
 - *2026.07*: &nbsp;🎉🎉 One paper was accepted by **ACMMM 2026**.
