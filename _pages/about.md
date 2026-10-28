@@ -147,6 +147,25 @@ Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025), **poster**.
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">
+        MM 2026</div>
+      <img src='images/MM2026_RECH_Framework.png' alt="sym" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+[Robust Evidential Cross-Modal Hashing with Partial Labels](https://openreview.net/pdf?id=ohVY8QMFAy)
+
+linshuang kang, Yuan Sun, Yanan Li#, **Chao Su#**
+
+34th ACM International Conference on Multimedia (MM 2026), **poster**.
+
+</div>
+</div>
+
 
 # 📖 Educations
 - *2024.09 - now*, PhD student, College of Computer Science, Sichuan University.
