@@ -147,7 +147,7 @@ Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025), **poster**.
 </div>
 
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">
@@ -164,7 +164,7 @@ linshuang kang, Yuan Sun, Yanan Li#, **Chao Su#**
 34th ACM International Conference on Multimedia (MM 2026), **poster**.
 
 </div>
-</div>
+</div> -->
 
 
 # 📖 Educations
